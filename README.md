@@ -1,5 +1,5 @@
 # wifi_tool
 
-# Run
+## Run
 
 chmod +x wifi_tool.sh && ./wifi_tool.sh
